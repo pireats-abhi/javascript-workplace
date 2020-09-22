@@ -1,0 +1,8 @@
+Events in javascript
+
+- onclick
+- onmouseover
+- onkeydown
+- onkeyup
+- onload
+- onblur
